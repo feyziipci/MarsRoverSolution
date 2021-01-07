@@ -3,7 +3,6 @@
 .vs/MarsRoverSolution/v16/TestStore/0/testlog.manifest
 packages/
 TestResults/
-MarsRover/bin
 MarsRover/obj
 MarsRoverUnitTest/bin
 MarsRoverUnitTest/obj
